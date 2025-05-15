@@ -1,4 +1,4 @@
-class waltid < Formula
+class Waltid < Formula
   desc "walt.id CLI tool"
   homepage "https://github.com/walt-id/waltid-identity/tree/main/waltid-applications/waltid-cli"
   url "https://github.com/youruser/yourtool/releases/download/v1.0.0/yourtool-macos.tar.gz"
